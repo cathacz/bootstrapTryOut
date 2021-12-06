@@ -10,7 +10,7 @@ just me trying out Bootstrap to rebuilt a simple layout.
 
 But I added cute pugs, so you should look at it!
 
-![pugs](/images/pugs.png)
+![pugs](/img/pugs.png)
 
 ### I used
 
